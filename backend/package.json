@@ -1,0 +1,13 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Vaibhav Tiwari",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+  
+    "start": "nodemon server.js"
+  }
+}
