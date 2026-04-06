@@ -11,7 +11,7 @@ import {
     XCircle,
 } from 'lucide-react';
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-jn6h.onrender.com";
 
 //Helper function
 function formatTwo(n) {

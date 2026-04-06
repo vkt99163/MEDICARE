@@ -3,7 +3,7 @@ import { listPageStyles } from '../assets/dummyStyles';
 import { useParams } from 'react-router-dom';
 import { Calendar, Search, X } from 'lucide-react';
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-jn6h.onrender.com";
 
 //helper function similar to dashboard
 function parseDateTime(date, time) {
